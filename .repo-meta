@@ -1,0 +1,2 @@
+DESC='Pharmacy point-of-sale desktop app — sales, inventory, purchases, returns, shifts and reports'
+TOPICS=pos,pharmacy,medical-store,nextjs,electron,typescript,sqlite,tailwindcss
